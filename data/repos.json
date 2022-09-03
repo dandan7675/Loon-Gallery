@@ -1,15 +1,15 @@
 {
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-09-03T22:03:39Z",
-    "stargazers_count": 6007,
-    "forks_count": 1173
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-09-03T15:57:02Z",
+    "stargazers_count": 3802,
+    "forks_count": 1137
   },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
@@ -23,17 +23,29 @@
     "stargazers_count": 4882,
     "forks_count": 243
   },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2022-09-03T10:24:44Z",
-    "stargazers_count": 816,
-    "forks_count": 241
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2022-09-03T22:03:39Z",
+    "stargazers_count": 6007,
+    "forks_count": 1173
+  },
+  "Coldvvater-Loon-master": {
+    "user": "Coldvvater",
+    "repo": "Loon",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
+    "owner_url": "https://github.com/Coldvvater",
+    "repo_description": "Loon自用配置、重写及脚本等。",
+    "repo_url": "https://github.com/Coldvvater/Loon",
+    "updated_at": "2022-09-02T00:41:57Z",
+    "stargazers_count": 4,
+    "forks_count": 0
   },
   "VirgilClyne-VirgilClyne-main": {
     "user": "VirgilClyne",
@@ -59,6 +71,42 @@
     "stargazers_count": 1183,
     "forks_count": 90
   },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2022-09-03T10:24:44Z",
+    "stargazers_count": 816,
+    "forks_count": 241
+  },
+  "I-am-R-E-Functional-Store-Hub-Master": {
+    "user": "I-am-R-E",
+    "repo": "Functional-Store-Hub",
+    "branch": "Master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97787451?v=4",
+    "owner_url": "https://github.com/I-am-R-E",
+    "repo_description": "Functional scripts, agent node, configurations for Surge, QuantumultX, Loon, Stash ,Egern , ShadowRocket and HTTPCatcher.",
+    "repo_url": "https://github.com/I-am-R-E/Functional-Store-Hub",
+    "updated_at": "2022-09-03T14:54:20Z",
+    "stargazers_count": 376,
+    "forks_count": 23
+  },
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用QuantumultX,Loon,Surge,Clash,AdGuardHome规则与配置文件,GitHub Action每周自动更新规则",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2022-09-03T13:23:57Z",
+    "stargazers_count": 526,
+    "forks_count": 65
+  },
   "NobyDa-Script-master": {
     "user": "NobyDa",
     "repo": "Script",
@@ -82,18 +130,6 @@
     "updated_at": "2022-09-03T22:11:59Z",
     "stargazers_count": 1017,
     "forks_count": 163
-  },
-  "Coldvvater-Loon-master": {
-    "user": "Coldvvater",
-    "repo": "Loon",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
-    "owner_url": "https://github.com/Coldvvater",
-    "repo_description": "Loon自用配置、重写及脚本等。",
-    "repo_url": "https://github.com/Coldvvater/Loon",
-    "updated_at": "2022-09-02T00:41:57Z",
-    "stargazers_count": 4,
-    "forks_count": 0
   },
   "GeQ1an-Rules-master": {
     "user": "GeQ1an",
@@ -119,29 +155,17 @@
     "stargazers_count": 29,
     "forks_count": 3
   },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
+  "Peng-YM-Sub-Store-master": {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用QuantumultX,Loon,Surge,Clash,AdGuardHome规则与配置文件,GitHub Action每周自动更新规则",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2022-09-03T13:23:57Z",
-    "stargazers_count": 526,
-    "forks_count": 65
-  },
-  "I-am-R-E-Functional-Store-Hub-Master": {
-    "user": "I-am-R-E",
-    "repo": "Functional-Store-Hub",
-    "branch": "Master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/97787451?v=4",
-    "owner_url": "https://github.com/I-am-R-E",
-    "repo_description": "Functional scripts, agent node, configurations for Surge, QuantumultX, Loon, Stash ,Egern , ShadowRocket and HTTPCatcher.",
-    "repo_url": "https://github.com/I-am-R-E/Functional-Store-Hub",
-    "updated_at": "2022-09-03T14:54:20Z",
-    "stargazers_count": 376,
-    "forks_count": 23
+    "avatar_url": "https://avatars.githubusercontent.com/u/108168464?v=4",
+    "owner_url": "https://github.com/sub-store-org",
+    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
+    "repo_url": "https://github.com/sub-store-org/Sub-Store",
+    "updated_at": "2022-09-03T13:54:18Z",
+    "stargazers_count": 1622,
+    "forks_count": 158
   },
   "DualSubs-DualSubs-main": {
     "user": "DualSubs",
@@ -154,29 +178,5 @@
     "updated_at": "2022-09-02T12:58:37Z",
     "stargazers_count": 497,
     "forks_count": 13
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-09-03T15:57:02Z",
-    "stargazers_count": 3802,
-    "forks_count": 1137
-  },
-  "Peng-YM-Sub-Store-master": {
-    "user": "Peng-YM",
-    "repo": "Sub-Store",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/108168464?v=4",
-    "owner_url": "https://github.com/sub-store-org",
-    "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!",
-    "repo_url": "https://github.com/sub-store-org/Sub-Store",
-    "updated_at": "2022-09-03T13:54:18Z",
-    "stargazers_count": 1622,
-    "forks_count": 158
   }
 }
