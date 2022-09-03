@@ -35,30 +35,6 @@
     "stargazers_count": 4878,
     "forks_count": 242
   },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2022-09-02T17:14:35Z",
-    "stargazers_count": 3799,
-    "forks_count": 1137
-  },
-  "deezertidal-private-master": {
-    "user": "deezertidal",
-    "repo": "private",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
-    "owner_url": "https://github.com/deezertidal",
-    "repo_description": "Loon配置脚本插件",
-    "repo_url": "https://github.com/deezertidal/private",
-    "updated_at": "2022-09-02T07:24:21Z",
-    "stargazers_count": 28,
-    "forks_count": 3
-  },
   "Tartarus2014-Loon-Script-master": {
     "user": "Tartarus2014",
     "repo": "Loon-Script",
@@ -71,41 +47,17 @@
     "stargazers_count": 814,
     "forks_count": 241
   },
-  "Coldvvater-Loon-master": {
-    "user": "Coldvvater",
-    "repo": "Loon",
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
-    "owner_url": "https://github.com/Coldvvater",
-    "repo_description": "Loon自用配置、重写及脚本等。",
-    "repo_url": "https://github.com/Coldvvater/Loon",
-    "updated_at": "2022-09-02T00:41:57Z",
-    "stargazers_count": 4,
-    "forks_count": 0
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2022-09-03T04:40:41Z",
-    "stargazers_count": 6141,
-    "forks_count": 3279
-  },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用QuantumultX,Loon,Surge,Clash,AdGuardHome规则与配置文件",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2022-09-03T01:39:44Z",
-    "stargazers_count": 524,
-    "forks_count": 65
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2022-09-02T17:14:35Z",
+    "stargazers_count": 3799,
+    "forks_count": 1137
   },
   "blackmatrix7-ios_rule_script-master": {
     "user": "blackmatrix7",
@@ -115,8 +67,8 @@
     "owner_url": "https://github.com/blackmatrix7",
     "repo_description": "分流规则、重写写规则及脚本。",
     "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2022-09-03T00:43:04Z",
-    "stargazers_count": 5994,
+    "updated_at": "2022-09-03T05:39:50Z",
+    "stargazers_count": 5997,
     "forks_count": 1170
   },
   "GeQ1an-Rules-master": {
@@ -151,9 +103,21 @@
     "owner_url": "https://github.com/I-am-R-E",
     "repo_description": "Functional scripts, agent node, configurations for Surge, QuantumultX, Loon, Stash ,Egern , ShadowRocket and HTTPCatcher.",
     "repo_url": "https://github.com/I-am-R-E/Functional-Store-Hub",
-    "updated_at": "2022-09-03T04:26:48Z",
-    "stargazers_count": 372,
+    "updated_at": "2022-09-03T05:40:09Z",
+    "stargazers_count": 373,
     "forks_count": 22
+  },
+  "Coldvvater-Loon-master": {
+    "user": "Coldvvater",
+    "repo": "Loon",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59505520?v=4",
+    "owner_url": "https://github.com/Coldvvater",
+    "repo_description": "Loon自用配置、重写及脚本等。",
+    "repo_url": "https://github.com/Coldvvater/Loon",
+    "updated_at": "2022-09-02T00:41:57Z",
+    "stargazers_count": 4,
+    "forks_count": 0
   },
   "app2smile-rules-master": {
     "user": "app2smile",
@@ -167,6 +131,42 @@
     "stargazers_count": 1182,
     "forks_count": 89
   },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2022-09-03T04:40:41Z",
+    "stargazers_count": 6141,
+    "forks_count": 3279
+  },
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用QuantumultX,Loon,Surge,Clash,AdGuardHome规则与配置文件",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2022-09-03T05:45:34Z",
+    "stargazers_count": 525,
+    "forks_count": 65
+  },
+  "deezertidal-private-master": {
+    "user": "deezertidal",
+    "repo": "private",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
+    "owner_url": "https://github.com/deezertidal",
+    "repo_description": "Loon配置脚本插件",
+    "repo_url": "https://github.com/deezertidal/private",
+    "updated_at": "2022-09-02T07:24:21Z",
+    "stargazers_count": 28,
+    "forks_count": 3
+  },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
     "repo": "Sub-Store",
@@ -177,6 +177,6 @@
     "repo_url": "https://github.com/sub-store-org/Sub-Store",
     "updated_at": "2022-09-03T00:21:04Z",
     "stargazers_count": 1621,
-    "forks_count": 157
+    "forks_count": 158
   }
 }
